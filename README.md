@@ -30,13 +30,7 @@ You can also deploy the folder directly to a static hosting provider.
 - `#/hr/applicants` — Applicant pipeline
 - `#/hr/settings` — Production-readiness notes
 
-## ARGsoft branding
-
-Official supplied logo: `assets/argsoft-logo.jpeg`
-
-Office: Flat No. 404, Sashi Arkade, JNTU Road, KPHB Phase - 9, Hyderabad - 500072, Telangana, India
-
-HR: `hr@argsoft.net`
+`
 
 ## Prototype behavior
 
