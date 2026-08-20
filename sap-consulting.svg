@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="SAP Consulting illustration">
-<rect width="300" height="300" rx="32" fill="#fff7f0"/>
-<g fill="none" stroke="#f4a261" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><rect x="75" y="75" width="150" height="150" rx="15"/><path d="M105 115h90M105 150h90M105 185h55"/><path d="M55 100h20M225 100h20M55 200h20M225 200h20"/></g>
-<circle cx="245" cy="55" r="16" fill="#111"/><circle cx="55" cy="245" r="12" fill="#111"/>
-</svg>
