@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="AI &amp; Machine Learning illustration">
+<rect width="300" height="300" rx="32" fill="#fff7f0"/>
+<g fill="none" stroke="#f4a261" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><rect x="85" y="75" width="130" height="130" rx="25"/><circle cx="125" cy="130" r="10"/><circle cx="175" cy="130" r="10"/><path d="M120 165q30 25 60 0M150 45v30M70 110h15M215 110h15M105 220l-20 25M195 220l20 25"/></g>
+<circle cx="245" cy="55" r="16" fill="#111"/><circle cx="55" cy="245" r="12" fill="#111"/>
+</svg>
