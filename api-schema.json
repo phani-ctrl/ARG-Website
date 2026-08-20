@@ -1,0 +1,25 @@
+{
+  "description": "Suggested production API contract for ARGsoft Solutions",
+  "auth": {
+    "POST /api/auth/login": "Authenticate HR user through a server-side identity provider",
+    "POST /api/auth/logout": "Invalidate server session",
+    "GET /api/auth/me": "Return current authenticated user and roles"
+  },
+  "jobs": {
+    "GET /api/jobs": "Public published jobs; supports q, location, type",
+    "POST /api/jobs": "HR only",
+    "GET /api/jobs/:id": "Public detail for published jobs; HR can view private fields",
+    "PATCH /api/jobs/:id": "HR only",
+    "DELETE /api/jobs/:id": "HR only"
+  },
+  "applicants": {
+    "GET /api/applicants": "HR only; supports search/status",
+    "GET /api/applicants/:id": "HR only",
+    "PATCH /api/applicants/:id": "HR only",
+    "POST /api/applications": "Public application submission"
+  },
+  "files": {
+    "POST /api/resumes/upload-url": "Authenticated server creates short-lived signed upload URL",
+    "GET /api/resumes/:id/download-url": "HR-only short-lived signed download URL"
+  }
+}
